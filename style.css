@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.if {
+  margin-left: 30%;
+  margin-right: 40%;
+  width: 420px;
+  height: 350px;
+
+}
